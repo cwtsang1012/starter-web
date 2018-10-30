@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Grace -- Programmer -- cwtsang1012@gmail.com
 
 # THANKS
 
